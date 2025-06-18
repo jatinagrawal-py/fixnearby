@@ -1,0 +1,399 @@
+{
+  "home_services": [
+    {
+      "main_category": "Appliances",
+      "icon": "🔌",
+      "categories": [
+        {
+          "category": "Air Conditioner",
+          "services": [
+            { "issue": "AC not cooling properly", "price_range": "1,800 - 3,000" },
+            { "issue": "AC water leakage repair", "price_range": "350 - 700" },
+            { "issue": "AC installation/uninstallation", "price_range": "800 - 2,000" },
+            { "issue": "AC general servicing", "price_range": "800 - 1,500" },
+            { "issue": "AC diagnostic and repair", "price_range": "400 - 1,000" }
+          ]
+        },
+        {
+          "category": "Refrigerator",
+          "services": [
+            { "issue": "Fridge not cooling", "price_range": "500 - 2,000" },
+            { "issue": "Compressor replacement", "price_range": "2,000 - 5,000" },
+            { "issue": "Gas refill and leak repair", "price_range": "800 - 2,500" },
+            { "issue": "Defrosting issue fix", "price_range": "400 - 1,200" },
+            { "issue": "Water leakage repair", "price_range": "300 - 800" }
+          ]
+        },
+        {
+          "category": "Washing Machine",
+          "services": [
+            { "issue": "Drum not spinning", "price_range": "500 - 3,000" },
+            { "issue": "Water drainage problem", "price_range": "400 - 1,000" },
+            { "issue": "Motor replacement", "price_range": "1,500 - 4,000" },
+            { "issue": "Door lock issue", "price_range": "300 - 800" },
+            { "issue": "Installation/uninstallation", "price_range": "300 - 800" }
+          ]
+        },
+        {
+          "category": "Microwave",
+          "services": [
+            { "issue": "Microwave not heating", "price_range": "500 - 1,200" },
+            { "issue": "Touchpad not working", "price_range": "400 - 1,000" },
+            { "issue": "Turntable not rotating", "price_range": "300 - 800" },
+            { "issue": "Door switch fault", "price_range": "400 - 900" }
+          ]
+        },
+        {
+          "category": "Television",
+          "services": [
+            { "issue": "TV screen/sound issues", "price_range": "500 - 4,000" },
+            { "issue": "TV wall mounting", "price_range": "400 - 800" },
+            { "issue": "Smart TV software issues", "price_range": "300 - 1,000" },
+            { "issue": "Remote sensor repair", "price_range": "200 - 600" }
+          ]
+        },
+        {
+          "category": "Kitchen Appliances",
+          "services": [
+            { "issue": "Chimney motor/switch/cleaning", "price_range": "400 - 1,500" },
+            { "issue": "Induction cooktop repair", "price_range": "400 - 1,200" },
+            { "issue": "Geyser heating/leakage/install", "price_range": "400 - 1,000" },
+            { "issue": "RO filter/leakage/pump repair", "price_range": "500 - 1,600" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Electrical",
+      "icon": "💡",
+      "categories": [
+        {
+          "category": "Switches & Sockets",
+          "services": [
+            { "issue": "Power socket repair", "price_range": "200 - 500" },
+            { "issue": "Switch installation/replacement", "price_range": "150 - 400" },
+            { "issue": "Smart switch setup", "price_range": "300 - 800" },
+            { "issue": "Switchboard installation", "price_range": "500 - 1,500" }
+          ]
+        },
+        {
+          "category": "Fans & Lighting",
+          "services": [
+            { "issue": "Fan installation/repair", "price_range": "200 - 600" },
+            { "issue": "Lighting installation", "price_range": "150 - 500" },
+            { "issue": "Chandelier installation", "price_range": "500 - 2,000" },
+            { "issue": "LED conversion", "price_range": "100 - 300" }
+          ]
+        },
+        {
+          "category": "Wiring & Circuits",
+          "services": [
+            { "issue": "House rewiring", "price_range": "5 - 15 per sq ft" },
+            { "issue": "MCB & fuse services", "price_range": "300 - 800" },
+            { "issue": "Circuit extension", "price_range": "500 - 1,500" },
+            { "issue": "Doorbell installation", "price_range": "200 - 600" }
+          ]
+        },
+        {
+          "category": "Power Backup",
+          "services": [
+            { "issue": "Inverter & stabilizer setup", "price_range": "500 - 1,500" },
+            { "issue": "UPS installation", "price_range": "300 - 1,000" },
+            { "issue": "Solar inverter setup", "price_range": "2,000 - 8,000" },
+            { "issue": "Battery replacement", "price_range": "500 - 2,000" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Plumbing",
+      "icon": "🔧",
+      "categories": [
+        {
+          "category": "Repairs & Maintenance",
+          "services": [
+            { "issue": "Leakage repair", "price_range": "300 - 800" },
+            { "issue": "Tap & faucet installation", "price_range": "300 - 700" },
+            { "issue": "Drainage blockage removal", "price_range": "400 - 1,000" },
+            { "issue": "Pipe fitting & repair", "price_range": "200 - 600" }
+          ]
+        },
+        {
+          "category": "Bathroom & Kitchen",
+          "services": [
+            { "issue": "Bathroom fitting", "price_range": "500 - 2,000" },
+            { "issue": "Water heater connection", "price_range": "500 - 1,200" },
+            { "issue": "Sink installation", "price_range": "400 - 1,000" },
+            { "issue": "Shower installation", "price_range": "300 - 800" }
+          ]
+        },
+        {
+          "category": "Water Systems",
+          "services": [
+            { "issue": "Water tank installation", "price_range": "1,000 - 3,000" },
+            { "issue": "Water tank cleaning", "price_range": "500 - 1,200" },
+            { "issue": "Water pump installation", "price_range": "800 - 2,500" },
+            { "issue": "Pipeline installation", "price_range": "300 - 800" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Carpentry",
+      "icon": "🔨",
+      "categories": [
+        {
+          "category": "Furniture Services",
+          "services": [
+            { "issue": "Furniture assembly", "price_range": "400 - 1,200" },
+            { "issue": "Bed repairs", "price_range": "500 - 1,500" },
+            { "issue": "Cupboard hinges fixing", "price_range": "200 - 600" },
+            { "issue": "Custom furniture making", "price_range": "5,000 - 30,000" }
+          ]
+        },
+        {
+          "category": "Doors & Windows",
+          "services": [
+            { "issue": "Door & window repair", "price_range": "500 - 2,000" },
+            { "issue": "Door lock installation", "price_range": "300 - 800" },
+            { "issue": "Window fitting", "price_range": "400 - 1,200" },
+            { "issue": "Frame repair", "price_range": "300 - 900" }
+          ]
+        },
+        {
+          "category": "Kitchen & Storage",
+          "services": [
+            { "issue": "Modular kitchen fixing", "price_range": "5,000 - 20,000" },
+            { "issue": "Wooden rack installation", "price_range": "500 - 1,500" },
+            { "issue": "Shelf installation", "price_range": "200 - 800" },
+            { "issue": "Cabinet repair", "price_range": "300 - 1,000" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Cleaning",
+      "icon": "🧽",
+      "categories": [
+        {
+          "category": "Deep Cleaning",
+          "services": [
+            { "issue": "Home deep cleaning", "price_range": "3,000 - 8,000" },
+            { "issue": "Kitchen deep cleaning", "price_range": "600 - 1,500" },
+            { "issue": "Bathroom deep cleaning", "price_range": "400 - 1,200" },
+            { "issue": "Floor scrubbing & polishing", "price_range": "5 - 15 per sq ft" }
+          ]
+        },
+        {
+          "category": "Specialized Cleaning",
+          "services": [
+            { "issue": "Sofa & carpet cleaning", "price_range": "500 - 2,000" },
+            { "issue": "Mattress cleaning", "price_range": "400 - 1,000" },
+            { "issue": "Water tank cleaning", "price_range": "500 - 1,200" },
+            { "issue": "Solar panel cleaning", "price_range": "800 - 2,500" }
+          ]
+        },
+        {
+          "category": "Sanitization",
+          "services": [
+            { "issue": "Home sanitization", "price_range": "500 - 2,000" },
+            { "issue": "Office sanitization", "price_range": "1,000 - 5,000" },
+            { "issue": "Vehicle sanitization", "price_range": "300 - 1,000" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Painting & Renovation",
+      "icon": "🎨",
+      "categories": [
+        {
+          "category": "Painting Services",
+          "services": [
+            { "issue": "Interior painting", "price_range": "15 - 40 per sq ft" },
+            { "issue": "Exterior painting", "price_range": "20 - 50 per sq ft" },
+            { "issue": "Wall texture design", "price_range": "40 - 100 per sq ft" },
+            { "issue": "Waterproofing", "price_range": "30 - 80 per sq ft" }
+          ]
+        },
+        {
+          "category": "Wall & Ceiling Work",
+          "services": [
+            { "issue": "Wallpaper installation", "price_range": "20 - 60 per sq ft" },
+            { "issue": "POP & false ceiling work", "price_range": "50 - 150 per sq ft" },
+            { "issue": "Wall repairs", "price_range": "200 - 800" },
+            { "issue": "Ceiling fan mounting", "price_range": "150 - 400" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Pest Control",
+      "icon": "🐛",
+      "categories": [
+        {
+          "category": "Common Pests",
+          "services": [
+            { "issue": "Cockroach control", "price_range": "300 - 800" },
+            { "issue": "Bed bug removal", "price_range": "800 - 2,000" },
+            { "issue": "Rodent control", "price_range": "500 - 1,500" },
+            { "issue": "Mosquito control", "price_range": "300 - 700" }
+          ]
+        },
+        {
+          "category": "Specialized Treatment",
+          "services": [
+            { "issue": "Termite treatment", "price_range": "2,000 - 6,000" },
+            { "issue": "General pest management", "price_range": "500 - 1,500" },
+            { "issue": "Ant control", "price_range": "300 - 800" },
+            { "issue": "Spider control", "price_range": "400 - 1,000" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Security & Automation",
+      "icon": "🔒",
+      "categories": [
+        {
+          "category": "Security Systems",
+          "services": [
+            { "issue": "CCTV installation (2-4 cameras)", "price_range": "2,500 - 6,000" },
+            { "issue": "Smart door lock setup", "price_range": "2,000 - 5,000" },
+            { "issue": "Alarm system installation", "price_range": "3,000 - 8,000" },
+            { "issue": "Video door phone", "price_range": "2,500 - 7,000" }
+          ]
+        },
+        {
+          "category": "Home Automation",
+          "services": [
+            { "issue": "Home automation integration", "price_range": "5,000 - 20,000" },
+            { "issue": "Smart lighting setup", "price_range": "1,000 - 5,000" },
+            { "issue": "Voice control installation", "price_range": "2,000 - 8,000" },
+            { "issue": "Automated curtains", "price_range": "3,000 - 12,000" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Moving & Storage",
+      "icon": "📦",
+      "categories": [
+        {
+          "category": "Local Moving",
+          "services": [
+            { "issue": "Local shifting (per ton)", "price_range": "1,500 - 5,000" },
+            { "issue": "Packing & unpacking", "price_range": "2,000 - 8,000" },
+            { "issue": "Loading & unloading", "price_range": "1,000 - 4,000" },
+            { "issue": "Furniture moving", "price_range": "800 - 3,000" }
+          ]
+        },
+        {
+          "category": "Long Distance & Storage",
+          "services": [
+            { "issue": "Inter-city relocation (per 100 km)", "price_range": "5,000 - 20,000" },
+            { "issue": "Vehicle transport", "price_range": "3,000 - 10,000" },
+            { "issue": "Storage & warehousing (per month)", "price_range": "2,000 - 8,000" },
+            { "issue": "International moving", "price_range": "25,000 - 1,00,000" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Gardening & Landscaping",
+      "icon": "🌱",
+      "categories": [
+        {
+          "category": "Garden Maintenance",
+          "services": [
+            { "issue": "Lawn mowing", "price_range": "500 - 1,500" },
+            { "issue": "Plant care", "price_range": "500 - 3,000" },
+            { "issue": "Garden design & maintenance", "price_range": "1,000 - 5,000" },
+            { "issue": "Tree trimming", "price_range": "300 - 1,200" }
+          ]
+        },
+        {
+          "category": "Garden Setup",
+          "services": [
+            { "issue": "Vertical garden setup", "price_range": "1,000 - 5,000" },
+            { "issue": "Irrigation system installation", "price_range": "1,500 - 5,000" },
+            { "issue": "Landscaping design", "price_range": "2,000 - 10,000" },
+            { "issue": "Artificial grass installation", "price_range": "50 - 150 per sq ft" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Interior Design",
+      "icon": "🏠",
+      "categories": [
+        {
+          "category": "Design Services",
+          "services": [
+            { "issue": "Space planning", "price_range": "1,000 - 3,000" },
+            { "issue": "3D design & rendering", "price_range": "5,000 - 20,000" },
+            { "issue": "Interior consultation", "price_range": "500 - 2,000" },
+            { "issue": "Color consultation", "price_range": "300 - 1,500" }
+          ]
+        },
+        {
+          "category": "Furnishing",
+          "services": [
+            { "issue": "Modular kitchen setup", "price_range": "50,000 - 2,00,000" },
+            { "issue": "Curtains & blinds installation", "price_range": "500 - 5,000" },
+            { "issue": "Wardrobe installation", "price_range": "10,000 - 50,000" },
+            { "issue": "False ceiling design", "price_range": "80 - 200 per sq ft" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Repaires & Installation",
+      "icon": "🛠️",
+      "categories": [
+        {
+          "category": "Basic Repairs",
+          "services": [
+            { "issue": "Drilling & hanging", "price_range": "200 - 600" },
+            { "issue": "Small repairs", "price_range": "200 - 1,000" },
+            { "issue": "Hardware installation", "price_range": "150 - 500" },
+            { "issue": "Caulking & sealing", "price_range": "100 - 400" }
+          ]
+        },
+        {
+          "category": "Installation Services",
+          "services": [
+            { "issue": "Curtain rod fixing", "price_range": "200 - 500" },
+            { "issue": "Mirror & frame mounting", "price_range": "200 - 800" },
+            { "issue": "Shelf installation", "price_range": "200 - 800" },
+            { "issue": "TV bracket mounting", "price_range": "300 - 800" }
+          ]
+        }
+      ]
+    },
+    {
+      "main_category": "Specialized Services",
+      "icon": "⚙️",
+      "categories": [
+        {
+          "category": "Accessibility",
+          "services": [
+            { "issue": "Grab bar installation", "price_range": "500 - 1,500" },
+            { "issue": "Wheelchair access modifications", "price_range": "2,000 - 10,000" },
+            { "issue": "Mobility equipment setup", "price_range": "1,000 - 5,000" },
+            { "issue": "Ramp installation", "price_range": "3,000 - 15,000" }
+          ]
+        },
+        {
+          "category": "Miscellaneous",
+          "services": [
+            { "issue": "Sewage & septic tank services", "price_range": "2,000 - 6,000" },
+            { "issue": "Home energy audit", "price_range": "1,000 - 3,000" },
+            { "issue": "Chimney cleaning", "price_range": "800 - 2,000" },
+            { "issue": "Gutter cleaning", "price_range": "500 - 1,500" }
+          ]
+        }
+      ]
+    }
+  ]
+}
